@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'br.com.iterasys'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '4.3.3'
+    implementation group: 'com.opencsv', name: 'opencsv', version: '4.6'
+    implementation group: 'org.json', name: 'json', version: '20160810'
+}
+
+test{
+    useTestNG()
+}

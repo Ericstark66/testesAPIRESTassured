@@ -1,0 +1,114 @@
+Request method:	POST
+2Request URI:	https://petstore.swagger.io/v2/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "firstName": "Eric",
+    "lastName": "Stark",
+    "password": "123456789",
+    "userStatus": "0",
+    "phone": "1199999999",
+    "id": "43185",
+     "email": "teste@teste.com",
+    "username": "Eric"
+}
+HTTP/1.1 200 OK
+%Date: Tue, 04 Oct 2022 23:52:51 GMT
+ Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+ Access-Control-Allow-Origin: *
+6Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+DAccess-Control-Allow-Headers: Content-Type, api_key, Authorization
+ Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "43185"
+}
+O userID Ã© 43185
+Request method:	POST
+2Request URI:	https://petstore.swagger.io/v2/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "firstName": "Natalia",
+    "lastName": "Chaves",
+    "password": "123456789",
+    "userStatus": "0",
+    "phone": "1199999999",
+    "id": "43186",
+     "email": "teste@teste.com",
+    "username": "Natalia"
+}
+HTTP/1.1 200 OK
+%Date: Tue, 04 Oct 2022 23:52:52 GMT
+ Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+ Access-Control-Allow-Origin: *
+6Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+DAccess-Control-Allow-Headers: Content-Type, api_key, Authorization
+ Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "43186"
+}
+O userID Ã© 43186
+Request method:	POST
+2Request URI:	https://petstore.swagger.io/v2/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "firstName": "Chaves",
+    "lastName": "Chaves",
+    "password": "5643",
+    "userStatus": "0",
+    "phone": "483483",
+    "id": "43187",
+     "email": "teste@teste.com",
+    "username": "Roberto"
+}
+HTTP/1.1 200 OK
+%Date: Tue, 04 Oct 2022 23:52:53 GMT
+ Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+ Access-Control-Allow-Origin: *
+6Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+DAccess-Control-Allow-Headers: Content-Type, api_key, Authorization
+ Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "43187"
+}
+O userID Ã© 43187

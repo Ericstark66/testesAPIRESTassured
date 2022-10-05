@@ -1,0 +1,18 @@
+{
+  "id": 197408012589,
+  "category": {
+    "id": 1,
+    "name": "AX2345LORT"
+  },
+  "name": "natalia",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "Semana de teste em API"
+    }
+  ],
+  "status": "sold"
+}
